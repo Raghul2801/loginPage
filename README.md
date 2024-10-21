@@ -1,2 +1,2 @@
 # loginPage
-This is my first signIn signUp UI screen I designed at a very small age at 18
+This is my first signIn signUp UI screen. I designed it at a very small age.
